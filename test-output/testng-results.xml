@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-29T10:52:44 IST" name="Default suite" finished-at="2025-07-29T10:52:52 IST" duration-ms="7576">
+  <suite started-at="2025-08-02T22:23:16 IST" name="Default suite" finished-at="2025-08-02T22:23:19 IST" duration-ms="3858">
     <groups>
     </groups>
-    <test started-at="2025-07-29T10:52:44 IST" name="Default test" finished-at="2025-07-29T10:52:52 IST" duration-ms="7576">
-      <class name="demo.SecondTest">
-        <test-method signature="DeleteMethod()[pri:0, instance:demo.SecondTest@1bd4fdd]" started-at="2025-07-29T10:52:44 IST" name="DeleteMethod" finished-at="2025-07-29T10:52:47 IST" duration-ms="2567" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- DeleteMethod -->
-        <test-method signature="GETTest1()[pri:0, instance:demo.SecondTest@1bd4fdd]" started-at="2025-07-29T10:52:47 IST" name="GETTest1" finished-at="2025-07-29T10:52:51 IST" duration-ms="3604" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- GETTest1 -->
-        <test-method signature="PatchTest()[pri:0, instance:demo.SecondTest@1bd4fdd]" started-at="2025-07-29T10:52:51 IST" name="PatchTest" finished-at="2025-07-29T10:52:51 IST" duration-ms="748" status="PASS">
+    <test started-at="2025-08-02T22:23:16 IST" name="Default test" finished-at="2025-08-02T22:23:19 IST" duration-ms="3858">
+      <class name="demo.PatchMethods">
+        <test-method signature="PatchTest()[pri:0, instance:demo.PatchMethods@5b8dfcc1]" started-at="2025-08-02T22:23:16 IST" name="PatchTest" finished-at="2025-08-02T22:23:19 IST" duration-ms="3789" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PatchTest -->
-        <test-method signature="PutTest()[pri:0, instance:demo.SecondTest@1bd4fdd]" started-at="2025-07-29T10:52:51 IST" name="PutTest" finished-at="2025-07-29T10:52:52 IST" duration-ms="590" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- PutTest -->
-      </class> <!-- demo.SecondTest -->
+      </class> <!-- demo.PatchMethods -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
